@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python 🐍**
 
-- 👨‍💻 All of my projects are available at [https://self.cwings.me/projects](https://self.cwings.me/projects)
+- 👨‍💻 All of my projects are available at [Projects ✨](https://self.cwings.me/projects)
 
 - 📫 How to reach me **info@cwings.me**
 
