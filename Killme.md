@@ -12,26 +12,17 @@
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshyadav2010&layout=compact&theme=radical)
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=noreplyui5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noreplyui5&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devanshyadav2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noreplyui5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=Top.gg-Bot&theme=radical)]([https://github.com/devanshyadav2010/Top.gg-Bot])
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshyadav2010&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=WebSMTP&theme=radical)]([https://github.com/noreplyui5/Top.gg-Bot])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
 
 ### GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=radical)
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://treobot.tk/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="mailto:dev8adam576@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/devanshyadav2010" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.youtube.com/channel/DEVILADAMGAMING" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noreplyui5&theme=radical)
