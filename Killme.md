@@ -4,9 +4,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=3498db&style=plastic" alt="Devansh" />
-</p>
+- 🌱 I’m currently learning **Python 🐍**
 
 ## 🚀 Technologies & Tools
 
