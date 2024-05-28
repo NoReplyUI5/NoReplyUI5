@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Tamim!</h1>
 
-<p align="center">🚀 I'm passionate about crafting digital experiences and exploring the realms of technology. Let's create something amazing together!</p>
-
-<br>
-
 - 🌱 I’m currently learning **Python 🐍**
+
+- 👨‍💻 All of my projects are available at [https://self.cwings.me/projects](https://self.cwings.me/projects)
+
+- 📫 How to reach me **info@cwings.me**
 
 ## 🚀 Technologies & Tools
 
