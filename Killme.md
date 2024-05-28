@@ -1,12 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Tamim!</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-Student-6f42c1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-3498db?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Enthusiast-DS%20|%20AI%20|%20ML-2ecc71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Design-Graphic%20Designer-f39c12?style=for-the-badge">
-</p>
-
 <p align="center">🚀 I'm passionate about crafting digital experiences and exploring the realms of technology. Let's create something amazing together!</p>
 
 <br>
