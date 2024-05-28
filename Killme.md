@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Devansh Yadav!</h1>
+<h1 align="center">👋 Hi there, I'm Tamim!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Student-6f42c1?style=for-the-badge">
