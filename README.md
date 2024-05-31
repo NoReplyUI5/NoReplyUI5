@@ -29,7 +29,7 @@
 
 ## 🗂️ Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=WebSMTP&theme=radical)]([https://github.com/noreplyui5/Top.gg-Bot])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=web-terminal&theme=radical)]([https://github.com/noreplyui5/web-terminal])
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
 
 ### GitHub Streak Stats
