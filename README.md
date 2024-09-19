@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noreplyui5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noreplyui5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlighted Projects
 
