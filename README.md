@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=noreplyui5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noreplyui5&layout=compact&theme=radical)
+![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noreplyui5&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noreplyui5&layout=compact&theme=midnight-purple)
 
 ## 🏆 GitHub Trophies
 
