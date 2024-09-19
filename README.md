@@ -21,16 +21,16 @@
 ## 📊 GitHub Stats
 
 ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noreplyui5&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noreplyui5&layout=compact&theme=midnight-purple)
+![Tamim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noreplyui5&layout=compact&theme=midnight-purple)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noreplyui5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=noreplyui5&theme=darkhub)
 
 ## 🗂️ Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=web-terminal&theme=radical)]([https://github.com/noreplyui5/web-terminal])
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=radical)](https://github.com/devanshyadav2010/aayu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=web-terminal&theme=github_dark)]([https://github.com/noreplyui5/web-terminal])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=github_dark)](https://github.com/devanshyadav2010/aayu)
 
 ### GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noreplyui5&theme=radical)
