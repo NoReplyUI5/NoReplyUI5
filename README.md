@@ -33,4 +33,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=github_dark)](https://github.com/devanshyadav2010/aayu)
 
 ### GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noreplyui5&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoReplyUI5&theme=neon-dark)
