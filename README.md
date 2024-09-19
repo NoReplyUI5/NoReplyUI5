@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Tamim!</h1>
 
-- 🌱 I’m currently learning **Python 🐍**
+- 🌱 I’m currently learning **JavaScript 🐍**
 
 - 👨‍💻 All of my projects are available at [https://self.cwings.me/projects](https://self.cwings.me/projects) SOON
 
-- 📫 How to reach me **info@cwings.me**
+- 📫 How to reach me **mxtiy@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
