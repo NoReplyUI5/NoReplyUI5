@@ -29,8 +29,8 @@
 
 ## 🗂️ Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=web-terminal&theme=github_dark)]([https://github.com/noreplyui5/shuming.js])
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=github_dark)](https://github.com/devanshyadav2010/aayu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=shuming.js&theme=github_dark)]([https://github.com/noreplyui5/shuming.js])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noreplyui5&repo=aayu&theme=github_dark)](https://github.com/NoReplyUI5/aayu)
 
 ### GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoReplyUI5&theme=neon-dark)
