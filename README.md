@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **JavaScript 🐍**
 
-- 👨‍💻 All of my projects are available at [https://self.cwings.me/projects](https://self.cwings.me/projects) SOON
+- 👨‍💻 All of my projects are available at [Web@Mxtiy/Projects](https://mxtiy.vercel.app/projects/) SOON
 
 - 📫 How to reach me **mxtiy@duck.com**
 
