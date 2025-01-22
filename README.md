@@ -10,6 +10,9 @@
 
 [![Profile Views](https://u8views.com/api/v1/github/profiles/146015362/views/day-week-month-total-count.svg)](https://github.com/NoReplyUI5)
 
+# Discord Status:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1053918356375351386?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/1053918356375351386)
+
 # Contacts:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/1053918356375351386)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/knifecodez)
@@ -29,5 +32,5 @@
 # GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
 
-# Discord Status:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1053918356375351386?showDisplayName=true)](https://discord.com/users/1053918356375351386)
+# Repo Cards:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=grdAyush&repo=Aayu)](https://github.com/grdAyush/Aayu)
