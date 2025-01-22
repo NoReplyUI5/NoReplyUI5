@@ -31,6 +31,3 @@
 
 # GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
-
-# Repo Cards:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=grdAyush&repo=Aayu)](https://github.com/grdAyush/Aayu)
