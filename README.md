@@ -13,6 +13,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/knifecodez)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tamim99g)
 
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=NoReplyUI5&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/NoReplyUI5)
+
 # Tools & Packages:
 <p align="center">
   <a href="https://github.com/NoReplyUI5">
