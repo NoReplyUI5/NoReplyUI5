@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **mxtiy@duck.com**
 
+[![Tamim profile views](https://u8views.com/api/v1/github/profiles/146015362/views/day-week-month-total-count.svg)](https://github.com/NoReplyUI5)
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/1053918356375351386)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/knifecodez)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/knifecodez)
