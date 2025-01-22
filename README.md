@@ -13,7 +13,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/knifecodez)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tamim99g)
 
-# Languages:
+# Tools & Packages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,nodejs,js,discordjs,mongodb,cloudflare" />
+  </a>
+</p>
 
 # GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
