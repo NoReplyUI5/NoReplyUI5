@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NoReplyUI5&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/NoReplyUI5)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NoReplyUI5&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/NoReplyUI5)
 
 - 🌱 I’m currently learning **JavaScript (ES6)🐍**
 
