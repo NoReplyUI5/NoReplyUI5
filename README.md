@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning **JavaScript (ES6)🐍**
+- 🌱 I’m currently learning **Typescript (TS)🐍**
 
 - 👨‍💻 All of my projects are available at [Web@Mxtiy/Projects](https://mxtiy.vercel.app/projects/) SOON
 
