@@ -25,4 +25,4 @@
 </p>
 
 # GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NoReplyUI5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/NoReplyUI5)
