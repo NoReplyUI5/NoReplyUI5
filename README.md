@@ -14,7 +14,7 @@
 # Contacts:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/1053918356375351386)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/knifecodez)
-[![X (formerly Twitter)](https://img.shields.io/badge/X_(formerly_Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mxtiy)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mxtiy)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mxtiy.ily)
 
 # Tools & Packages:
