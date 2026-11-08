@@ -20,7 +20,7 @@
 # Tools & Packages:
 <p align="center">
   <a href="https://github.com/NoReplyUI5">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,nodejs,js,py,discordjs,mongodb,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,nodejs,js,ts,py,discordjs,cloudflare" />
   </a>
 </p>
 
